@@ -75,4 +75,3 @@ python run_agent.py
 
 ---
 
-✅ Clean, concise, and AI-powered inventory optimization!  
