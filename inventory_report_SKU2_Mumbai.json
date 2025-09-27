@@ -1,0 +1,39 @@
+{
+    "current_stock": [
+        {
+            "product_id": "SKU2",
+            "product_name": "Caring Baby Baby Wipes with Lid - Buy 2 Get 1 Free(Packet) 3 packs - Rs 327",
+            "city_name": "Mumbai",
+            "stock": 863
+        }
+    ],
+    "total_sales": {
+        "SKU2": 3439
+    },
+    "average_daily_sales": {
+        "SKU2": 56.377049180327866
+    },
+    "monthly_sales": {
+        "SKU2": [
+            {
+                "date": "2025-07",
+                "units_sold": 195
+            },
+            {
+                "date": "2025-08",
+                "units_sold": 1793
+            },
+            {
+                "date": "2025-09",
+                "units_sold": 1451
+            }
+        ]
+    },
+    "reorder_check": {
+        "SKU2": {
+            "reorder_needed": false,
+            "recommended_order_units": 0,
+            "message": "Reorder needed: False. Current stock = 863, Reorder Point = 169.13"
+        }
+    }
+}

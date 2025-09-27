@@ -1,0 +1,15 @@
+{
+  "lead_time_days": {
+    "SKU-1": 5,
+    "SKU-2": 3,
+    "SKU-3": 7,
+    "SKU-4": 4,
+    "SKU-5": 2,
+    "SKU-6": 3,
+    "SKU-7": 1,
+    "SKU-8": 4,
+    "SKU-9": 6,
+    "SKU-10": 4
+  },
+  "manufacturing_batch_size": 100
+}
